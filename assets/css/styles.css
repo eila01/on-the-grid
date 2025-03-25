@@ -22,6 +22,10 @@ p{
 	font-style: normal; 
 }
 
+img{
+	width: 100%;
+}
+
 /* Fonts */
 /*Title
 .unifrakturmaguntia-regular {
