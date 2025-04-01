@@ -25,6 +25,10 @@ p{
 img{
 	width: 100%;
 }
+small{
+	font-family: "Inria Serif", serif;
+	font-style: italic;
+}
 
 /* Fonts */
 /*Title
